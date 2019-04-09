@@ -1,2 +1,10 @@
 # Java-Mind-Map
-一些Java相关的思维导图
+
+## 分布式系统
+![](/分布式系统.jpg)
+
+## 缓存
+![](/缓存.jpg)
+
+## redis
+![](/redis.jpg)
